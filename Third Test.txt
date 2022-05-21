@@ -1,1 +1,3 @@
-Hi this is the third in the commit
+Hi this is the third in the commit.
+It is good.
+
